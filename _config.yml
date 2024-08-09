@@ -2,8 +2,8 @@
 title: Richard
 email: richard@university.edu
 description: Academic webpage of Dr. Richard Feynman
-baseurl: "/my-website"
-url: "https://OADataDive.github.io/my-website/"
+baseurl: ""
+url: ""
 
 # Google analytics ID: Uncomment and your own, if you like
 # google_analytics: XX
