@@ -1,6 +1,7 @@
 tags
 _site/
 .jekyll-cache/
+_build_config.yml
 .sass-cache/
 .DS_Store
 Gemfile.lock
