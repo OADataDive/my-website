@@ -47,8 +47,18 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# addid by me according to github instructions
+
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+
 # Markdown Processing
 kramdown:
+  # the first two added by me
+  math_engine: mathjax
+  syntax_highlighter: rouge
   input: GFM
   hard_wrap: false
   auto_ids: true
